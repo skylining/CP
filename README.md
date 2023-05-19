@@ -1,2 +1,1 @@
-# CP
-Competitive Programming
+Competitive Programming done by Rain_Lyric.
